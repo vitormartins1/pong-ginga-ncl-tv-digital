@@ -41,11 +41,10 @@ Testar uma aplicação para TV digital em produção pode ser uma tarefa complex
 
 Para testar um aplicativo desenvolvido para TV digital em produção, é necessário ter um ambiente específico para tal, que envolve a transmissão do sinal para um receptor de TV digital. Além disso, é necessário alguns equipamentos e requisitos específicos:
 
-Transmissor de TV digital: é necessário um transmissor de TV digital para enviar o sinal da aplicação desenvolvida para a TV digital.
-Receptor de TV digital: é necessário um receptor de TV digital para receber o sinal de transmissão e exibir a aplicação na TV.
-Antena: é necessário uma antena de TV digital para captar o sinal de transmissão.
-Local adequado: é importante testar em um local com boa cobertura de TV digital para que a aplicação possa ser exibida corretamente.
-Certificação: é importante que o aplicativo esteja de acordo com as normas e padrões de TV digital brasileira, pois só assim ele poderá ser certificado e liberado para operação comercial.
-Além disso, é importante que o desenvolvedor realize testes em ambientes controlados antes de partir para a produção, para identificar e corrigir possíveis problemas e garantir que a aplicação funcione corretamente quando for lançada no mercado.
+- Transmissor de TV digital: é necessário um transmissor de TV digital para enviar o sinal da aplicação desenvolvida para a TV digital.
+- Receptor de TV digital: é necessário um receptor de TV digital para receber o sinal de transmissão e exibir a aplicação na TV.
+- Antena: é necessário uma antena de TV digital para captar o sinal de transmissão.
+- Local adequado: é importante testar em um local com boa cobertura de TV digital para que a aplicação possa ser exibida corretamente.
+- Certificação: é importante que o aplicativo esteja de acordo com as normas e padrões de TV digital brasileira, pois só assim ele poderá ser certificado e liberado para operação comercial.
 
 Caso o desenvolvedor não tenha acesso a esses equipamentos ou à infraestrutura necessária, é possível utilizar emuladores de TV digital, que simulam o ambiente de transmissão e recepção da TV digital em um computador. No entanto, é importante lembrar que os resultados obtidos em um emulador podem ser diferentes daqueles obtidos em um ambiente real de produção.
